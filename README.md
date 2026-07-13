@@ -1,4 +1,4 @@
-# 🛡️ Fraud Detection API + AI Analyst Copilot
+# 🛡️ Fraud Detection API + AI Analyst Copilot [URL - https://fraud-detection-copilot-by-llm.onrender.com/docs]
 
 An end-to-end fraud detection system that goes beyond prediction — it explains *why* a transaction was flagged, in plain English, using SHAP-grounded LLM reasoning. Built to mirror how fraud detection actually works in production: a model narrows a million applications down to a review queue, and an AI copilot helps a human analyst act on it faster.
 
