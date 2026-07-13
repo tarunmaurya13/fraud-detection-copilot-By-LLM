@@ -1,13 +1,23 @@
-# 🛡️ Fraud Detection API + AI Analyst Copilot [URL - https://fraud-detection-copilot-by-llm.onrender.com/docs]
+<div align="center">
 
-An end-to-end fraud detection system that goes beyond prediction — it explains *why* a transaction was flagged, in plain English, using SHAP-grounded LLM reasoning. Built to mirror how fraud detection actually works in production: a model narrows a million applications down to a review queue, and an AI copilot helps a human analyst act on it faster.
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Fraud+Detection+%2B+AI+Analyst+Copilot;XGBoost+%2B+SHAP+%2B+Gemini+LLM+Pipeline" alt="Typing SVG" /></a>
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110-teal)
-![XGBoost](https://img.shields.io/badge/XGBoost-Model-orange)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-red)
-![Gemini](https://img.shields.io/badge/Gemini-LLM%20Copilot-purple)
-![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7)
+<br/>
+
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=200&section=header&text=Fraud%20Detection%20Copilot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=End-to-end%20imbalanced%20classification%20with%20SHAP-grounded%20LLM%20explanations&descSize=16&descAlignY=55&descColor=58a6ff" width="100%"/>
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Model-EB5E28?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-LLM%20Copilot-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+🌐 **[Live Demo — Interactive Swagger UI](https://fraud-detection-copilot-by-llm.onrender.com/docs)**
+
+</div>
 
 ---
 
